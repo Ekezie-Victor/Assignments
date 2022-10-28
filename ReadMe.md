@@ -1,4 +1,4 @@
-Ekezie Victor 
+<h2>Ekezie Victor</h2> 
 
 This repository contains projects on a simple portfolio design, CSS grid and flexbox and a simple design for web forms. 
 
